@@ -33,6 +33,49 @@ I believe in learning by doing, staying consistent, and improving with every pro
 - 🏗️ **Simulation Games** — Exploring interactive systems and virtual worlds.
 - 💡 **Creative Projects** — Turning ideas into experiments and practical projects.
 
+
+## 🛠️ Tech Stack & Development Tools
+
+### 💻 Programming Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🎮 Game Development
+
+![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+Interested in building interactive experiences, word games,
+open-world concepts, and simulation games.
+
+### 🎨 3D Modeling & Design
+
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+
+Exploring 3D assets, modeling, and creative workflows
+for games and interactive projects.
+
+### 🔌 API Development & Testing
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+Using API testing tools to explore and work with APIs.
+
+### 🤖 AI & Automation
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+Currently exploring AI tools, ChatGPT, AI-assisted
+development, chatbots, and automation workflows.
+
+### 🌱 Currently Growing
+
+- Exploring practical applications of AI tools.
+- Improving my development skills through projects.
+- Learning how to combine AI with games and web applications.
+- Working toward building my own AI & Game Development Studio.
 ## 🧪 My Current Journey
 
 I'm a beginner, and this is where my journey starts.
